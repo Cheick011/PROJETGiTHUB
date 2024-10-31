@@ -9,7 +9,7 @@
 project = 'PROJETGiTHUB'
 copyright = "2024, Cheick N'DIAYE et Herman NZEVIETT"
 author = "Cheick N'DIAYE et Herman NZEVIETT"
-release = 'Version 1.1'
+release = 'Version 0.1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
